@@ -14,3 +14,9 @@ modif la presentation.  TBD
 et push TBD
 
 ça c'est mal passé Keepo le txt a était ajouté a la mano
+
+
+
+JENN Part
+
+Mon rôle aura été de créer le repo, de créer le fichier presentation.txt, de fusionner la branche de Mathieu sur mon main puis merge sur ma branche afin de procéder aux modifications de son fichier todolist.txt qu'il aura créé. J'ai fait quelques erreurs, beaucoup de manip mais au final maintenant je sais me débrouiller xD
