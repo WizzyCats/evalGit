@@ -11,3 +11,9 @@ La liste des commandes utilisées est la suivante:
 - git add .
 - git commit -m "nom de mon commit"
 - git push origin jennBranch (afin de pousser ma branche sur le repo distant, puis j'ai modifié mon fichier pour mettre des trucs dedans plusieurs fois et ai fait des commits après chaques modif, puis un push).
+- git checkout main
+- git pull origin bartBranch
+- git checkout jennBranch
+- git merge origin main
+
+Baart aura fait les mêmes commandes de son côté
