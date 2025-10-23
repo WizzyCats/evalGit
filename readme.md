@@ -16,4 +16,4 @@ La liste des commandes utilisées est la suivante:
 - git checkout jennBranch
 - git merge origin main
 
-Baart aura fait les mêmes commandes de son côté
+Baart aura fait les mêmes commandes de son côté :)
