@@ -1,0 +1,14 @@
+cloné le repos de jenn CHECK 
+Crée ma branche CHECK
+add ma branche CHECK 
+commit ma branche CHECK
+Push Ma branche Check
+
+to do 
+
+
+récup la branche de jenn          TBD
+fusion sa branche sur ma branche  TBD
+modif la presentation.  TBD
+
+et push TBD
